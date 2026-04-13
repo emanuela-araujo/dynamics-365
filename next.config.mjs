@@ -8,7 +8,7 @@ const nextConfig = {
     unoptimized: true,
   },
   // Descomente a linha abaixo se o repositório NÃO for seu-usuario.github.io
-  // basePath: '/nome-do-repositorio',
+  basePath: '/dynamics-365.github.io',
 }
 
 export default nextConfig

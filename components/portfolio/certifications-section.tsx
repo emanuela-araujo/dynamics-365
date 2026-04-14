@@ -15,7 +15,7 @@ export function CertificationsSection() {
     },
     {
       id: 3,
-      nome: "Descubra os conceitos básicos do Microsoft Dynamics 365 Customer Insights,
+      nome: "Descubra os conceitos básicos do Microsoft Dynamics 365 Customer Insights",
       url: "https://learn.microsoft.com/api/achievements/share/pt-br/EmanuelaArajo-4900/B9PJQW4D?sharingId=A034F7F69C4802FF"
     }
   ];

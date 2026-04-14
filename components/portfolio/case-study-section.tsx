@@ -53,6 +53,7 @@ export function CaseStudySection() {
               <div className="w-full h-40 bg-muted rounded-lg border-2 border-dashed border-border flex items-center justify-center">
                 <span className="text-sm text-muted-foreground">
                   Inserir imagem da Matriz Esforço x Impacto
+                
                 </span>
               </div>
             </CardContent>

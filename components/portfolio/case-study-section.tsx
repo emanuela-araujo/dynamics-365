@@ -49,12 +49,13 @@ export function CaseStudySection() {
                 priorizar o desenvolvimento de um Score de Intenção de Compra, garantindo
                 o desenvolvimento de itens de maior relevância logo no começo do projeto.
               </p>
-              {/* Placeholder para imagem da matriz */}
-              <div className="w-full h-40 bg-muted rounded-lg border-2 border-dashed border-border flex items-center justify-center">
-                <span className="text-sm text-muted-foreground">
-                  Inserir imagem da Matriz Esforço x Impacto
-                
-                </span>
+              {/* Imagem da Matriz */}
+              <div className="w-full mt-2 overflow-hidden rounded-lg border border-border shadow-sm">
+                <img 
+                src="/matriz-esforco-impacto.png" 
+                alt="Matriz de Esforço x Impacto mostrando projetos priorizados" 
+                className="w-full h-auto object-cover hover:scale-105 transition-transform duration-300"
+                />
               </div>
             </CardContent>
           </Card>

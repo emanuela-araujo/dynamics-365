@@ -45,9 +45,9 @@ export function CaseStudySection() {
             </CardHeader>
             <CardContent>
               <p className="text-muted-foreground leading-relaxed mb-4">
-                Utilizei metodologias ágeis (Scrum) e a Matriz de Esforço x Impacto para
+                Utilizei a Matriz de Esforço x Impacto para
                 priorizar o desenvolvimento de um Score de Intenção de Compra, garantindo
-                entregas iterativas e alinhamento contínuo com stakeholders.
+                o desenvolvimento de itens de maior relevância logo no começo do projeto.
               </p>
               {/* Placeholder para imagem da matriz */}
               <div className="w-full h-40 bg-muted rounded-lg border-2 border-dashed border-border flex items-center justify-center">

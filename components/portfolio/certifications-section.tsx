@@ -5,17 +5,17 @@ export function CertificationsSection() {
   const certificacoes = [
     {
       id: 1,
-      nome: "Insira o nome da certificação aqui (ex: PL-900)",
+      nome: "Introdução ao Microsoft Dynamics 365 Business Central",
       url: "https://learn.microsoft.com/api/achievements/share/pt-br/EmanuelaArajo-4900/Q52U5MSE?sharingId=A034F7F69C4802FF"
     },
     {
       id: 2,
-      nome: "Insira o nome da certificação aqui (ex: MB-210)",
+      nome: "Explore os conceitos básicos do Microsoft Dynamics 365 Sales",
       url: "https://learn.microsoft.com/api/achievements/share/pt-br/EmanuelaArajo-4900/37C2YKLH?sharingId=A034F7F69C4802FF"
     },
     {
       id: 3,
-      nome: "Insira o nome da certificação aqui",
+      nome: "Descubra os conceitos básicos do Microsoft Dynamics 365 Customer Insights,
       url: "https://learn.microsoft.com/api/achievements/share/pt-br/EmanuelaArajo-4900/B9PJQW4D?sharingId=A034F7F69C4802FF"
     }
   ];

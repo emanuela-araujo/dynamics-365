@@ -52,7 +52,7 @@ export function CaseStudySection() {
               {/* Imagem da Matriz */}
               <div className="w-full mt-2 overflow-hidden rounded-lg border border-border shadow-sm">
                 <img 
-                src="/matriz-esforco-impacto.png" 
+                src="public/matriz-esforco-impacto.png" 
                 alt="Matriz de Esforço x Impacto mostrando projetos priorizados" 
                 className="w-full h-auto object-cover hover:scale-105 transition-transform duration-300"
                 />

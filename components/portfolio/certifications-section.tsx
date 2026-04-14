@@ -6,7 +6,7 @@ export function CertificationsSection() {
       <div className="max-w-4xl mx-auto">
         <div className="text-center mb-12">
           <h2 className="text-2xl sm:text-3xl font-semibold text-foreground mb-4">
-            Certificações
+            Certificados Microsoft
           </h2>
           <p className="text-muted-foreground">
             Credenciais validadas pelo Microsoft Learn
